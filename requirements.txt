@@ -6,3 +6,13 @@ tqdm
 ipykernel
 scikit-learn
 xgboost
+
+numpy
+geopandas
+rasterio
+rioxarray
+xarray
+netCDF4
+h5netcdf
+transformers
+datasets

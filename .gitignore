@@ -3,3 +3,7 @@ venv/
 __pycache__/
 *.pyc
 .env
+
+eo4wildfires_local/
+experiments/cleaned_datasets/
+experiments/eo4wildfires_local/
