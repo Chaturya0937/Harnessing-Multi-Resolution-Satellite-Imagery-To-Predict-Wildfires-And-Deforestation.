@@ -7,3 +7,6 @@ __pycache__/
 eo4wildfires_local/
 experiments/cleaned_datasets/
 experiments/eo4wildfires_local/
+experiments/occurence_data/
+experiments/evaluate_wildfire_model.py
+experiments/train_wildfire_severity.py

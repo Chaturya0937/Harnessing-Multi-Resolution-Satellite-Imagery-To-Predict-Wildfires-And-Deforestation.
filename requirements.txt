@@ -16,3 +16,5 @@ netCDF4
 h5netcdf
 transformers
 datasets
+segmentation-models-pytorch
+gdown
