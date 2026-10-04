@@ -1,0 +1,7 @@
+Confusion Matrix:
+[[177  73]
+ [ 28 222]]
+True Negatives (TN): 177
+False Positives (FP): 73
+False Negatives (FN): 28
+True Positives (TP): 222

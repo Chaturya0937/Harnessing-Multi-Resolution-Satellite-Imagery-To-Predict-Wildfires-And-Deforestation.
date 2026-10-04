@@ -1,0 +1,3 @@
+ROC-AUC: 0.8848
+PR-AUC: 0.8946
+Auto-Calculated Threshold: 0.0075
